@@ -14,3 +14,11 @@ This project aims to scrape data from eBay regarding computers using Python and 
 
 
 
+
+
+## Requirements
+
+- Python 3.x
+- Selenium WebDriver
+- ChromeDriver (or appropriate WebDriver for your browser)
+
