@@ -3,30 +3,6 @@ import selenium
 from selenium.webdriver.common.by import By
 import time
 from selenium import webdriver
-
-
-
-
-
-
-
-
-
-
-
-# a = len(p_title)
-# b = len(p_link)
-# c = len(p_price)
-#
-# print(a)
-# print(b)
-# print(c)
-
-# from selenium import webdriver
-# from selenium.webdriver.common.by import By
-# import time
-# import pandas as pd
-#
 # driver = webdriver.Chrome()
 # all_data = []
 #
